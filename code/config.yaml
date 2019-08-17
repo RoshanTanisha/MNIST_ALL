@@ -1,0 +1,8 @@
+SVC:
+  C: 0.5
+  cache_size: 150
+  coef0: 0.9
+  decision_function_shape: 'linear'
+
+LogisticRegression:
+  multi_class: 'ovr'
